@@ -5,9 +5,9 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '活版印字',
+    title: '码字站',
     subtitle: 'Typography',
-    author: 'Moeyua',
+    author: 'Patrick Tien',
     description: 'Rediscory the beauty of typography',
     website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
